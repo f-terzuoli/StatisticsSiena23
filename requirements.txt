@@ -2,3 +2,6 @@ numpy
 matplotlib
 pandas
 zfit
+pylab
+scipy
+math
