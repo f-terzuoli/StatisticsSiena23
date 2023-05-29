@@ -10,4 +10,4 @@ Currently available notebooks:
 - ```Expo_ConfidenceIntervals```: computing Confidence Intervals with various ordering (increasing, decreasing, LR) - checking coverage
 - ```HypothesisTest```: a small exercise on building a MLP test and studying its power
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f-terzuoli/StatisticsSiena23/blob/main){:target="_blank"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f-terzuoli/StatisticsSiena23/blob/main)
